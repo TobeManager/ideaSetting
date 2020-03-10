@@ -1,0 +1,28 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="[BEAT] public sending beat to server: {&quot;cluster&quot;:&quot;DEFAULT&quot;,&quot;ip&quot;:&quot;192.168.10.98&quot;,&quot;metadata&quot;:{&quot;preserved.register.source&quot;:&quot;SPRING_CLOUD&quot;},&quot;port&quot;:8081,&quot;scheduled&quot;:true,&quot;serviceName&quot;:&quot;DEFAULT_GROUP@@pms-service&quot;,&quot;weight&quot;:1.0}" />
+      <item value="Factory method 'sqlSessionFactory' threw exception; nested exception is com.baomidou.mybatisplus.core.exceptions.MybatisPlusException: Error: GlobalConfigUtils setMetaData Fail ! Cause:java.sql.SQLException: The server time zone value '�й���׼ʱ��' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support." />
+      <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server." />
+      <item value="Could not get a resource from the pool" />
+      <item value="Returns the index within this string of the first occurrence of the * specified substring." />
+      <item value="Code shared by String and StringBuffer to do searches. The * source is the character array being searched, and the target * is the string being searched for." />
+      <item value="The driver has not received any packets from the server." />
+      <item value="Reentrant Lock" />
+      <item value="Packing and unpacking ctl" />
+      <item value="Gets the current value." />
+      <item value="Proceed in 3 steps: * * 1. If fewer than corePoolSize threads are running, try to * start a new thread with the given command as its first * task. The call to addWorker atomically checks runState and * workerCount, and so prevents false alarms that would add * threads when it shouldn't, by returning false. * * 2. If a task can be successfully queued, then we still need * to double-check whether we should have added a thread * (because existing ones died since last checking) or that * the pool shut down since entry into this method. So we * recheck state and if necessary roll back the enqueuing if * stopped, or start a new thread if there are none. * * 3. If we cannot queue task, then we try to add a new * thread. If it fails, we know we are shut down or saturated * and so reject the task." />
+      <item value="core Pool Size" />
+      <item value="Creates an Executor that uses a single worker thread operating * off an unbounded queue. (Note however that if this single * thread terminates due to a failure during execution prior to * shutdown, a new one will take its place if needed to execute * subsequent tasks.) Tasks are guaranteed to execute * sequentially, and no more than one task will be active at any * given time. Unlike the otherwise equivalent * {@code newFixedThreadPool(1)} the returned executor is * guaranteed not to be reconfigurable to use additional threads" />
+      <item value="Creates a thread pool that reuses a fixed number of threads * operating off a shared unbounded queue. At any point, at most * {@code nThreads} threads will be active processing tasks. * If additional tasks are submitted when all threads are active, * they will wait in the queue until a thread is available. * If any thread terminates due to a failure during execution * prior to shutdown, a new one will take its place if needed to * execute subsequent tasks. The threads in the pool will exist * until it is explicitly {@link ExecutorService#shutdown shutdown}." />
+      <item value="the newly created thread pool" />
+      <item value="the number of threads in the pool" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="17" />
+        <entry key="ENGLISH" value="18" />
+      </map>
+    </option>
+  </component>
+</application>
