@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No active profile set, falling back to default profiles: default" />
+      <item value="Ignore the empty nacos configuration and get it based on dataId" />
       <item value="[BEAT] public sending beat to server: {&quot;cluster&quot;:&quot;DEFAULT&quot;,&quot;ip&quot;:&quot;192.168.10.98&quot;,&quot;metadata&quot;:{&quot;preserved.register.source&quot;:&quot;SPRING_CLOUD&quot;},&quot;port&quot;:8081,&quot;scheduled&quot;:true,&quot;serviceName&quot;:&quot;DEFAULT_GROUP@@pms-service&quot;,&quot;weight&quot;:1.0}" />
       <item value="Factory method 'sqlSessionFactory' threw exception; nested exception is com.baomidou.mybatisplus.core.exceptions.MybatisPlusException: Error: GlobalConfigUtils setMetaData Fail ! Cause:java.sql.SQLException: The server time zone value '�й���׼ʱ��' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support." />
       <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server." />
@@ -20,8 +22,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="18" />
+        <entry key="CHINESE" value="19" />
+        <entry key="ENGLISH" value="20" />
       </map>
     </option>
   </component>
