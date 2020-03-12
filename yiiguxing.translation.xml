@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="returned 1 warnings: [299 Elasticsearch-6.8.1-1fad4e1 &quot;[types removal] Specifying types in put mapping requests is deprecated. To be compatible with 7.0, the mapping definition should not be nested under the type name, and the parameter include_type_name must be provided and set to false" />
       <item value="No active profile set, falling back to default profiles: default" />
       <item value="Ignore the empty nacos configuration and get it based on dataId" />
       <item value="[BEAT] public sending beat to server: {&quot;cluster&quot;:&quot;DEFAULT&quot;,&quot;ip&quot;:&quot;192.168.10.98&quot;,&quot;metadata&quot;:{&quot;preserved.register.source&quot;:&quot;SPRING_CLOUD&quot;},&quot;port&quot;:8081,&quot;scheduled&quot;:true,&quot;serviceName&quot;:&quot;DEFAULT_GROUP@@pms-service&quot;,&quot;weight&quot;:1.0}" />
@@ -22,8 +23,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="19" />
-        <entry key="ENGLISH" value="20" />
+        <entry key="CHINESE" value="20" />
+        <entry key="ENGLISH" value="21" />
       </map>
     </option>
   </component>
