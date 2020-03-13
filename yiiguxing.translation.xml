@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ApplicationEventMulticaster not initialized - call 'refresh' before multicasting events via the context: Root WebApplicationContext: startup date [Fri Mar 13 22:00:14 GMT+08:00 2020]; root of context hierarchy" />
       <item value="returned 1 warnings: [299 Elasticsearch-6.8.1-1fad4e1 &quot;[types removal] Specifying types in put mapping requests is deprecated. To be compatible with 7.0, the mapping definition should not be nested under the type name, and the parameter include_type_name must be provided and set to false" />
       <item value="No active profile set, falling back to default profiles: default" />
       <item value="Ignore the empty nacos configuration and get it based on dataId" />
@@ -23,8 +24,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="20" />
-        <entry key="ENGLISH" value="21" />
+        <entry key="CHINESE" value="21" />
+        <entry key="ENGLISH" value="22" />
       </map>
     </option>
   </component>
