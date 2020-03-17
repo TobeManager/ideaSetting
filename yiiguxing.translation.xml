@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Shutting down plugin 'MEMORY'" />
+      <item value="TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details)." />
+      <item value="2020-03-16T08:09:23.704913Z 278 [Note] Got an error reading communication packets 2020-03-16T12:15:49.400453Z 279 [Note] Got an error reading communication packets" />
+      <item value="2020-03-16T07:32:29.311911Z 106 [Note] Access denied for user 'root'@'43.226.67.149' (using password: YES)" />
+      <item value="470912 Z" />
+      <item value="0" />
       <item value="ApplicationEventMulticaster not initialized - call 'refresh' before multicasting events via the context: Root WebApplicationContext: startup date [Fri Mar 13 22:00:14 GMT+08:00 2020]; root of context hierarchy" />
       <item value="returned 1 warnings: [299 Elasticsearch-6.8.1-1fad4e1 &quot;[types removal] Specifying types in put mapping requests is deprecated. To be compatible with 7.0, the mapping definition should not be nested under the type name, and the parameter include_type_name must be provided and set to false" />
       <item value="No active profile set, falling back to default profiles: default" />
@@ -24,8 +30,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="22" />
+        <entry key="CHINESE" value="25" />
+        <entry key="ENGLISH" value="26" />
+        <entry key="POLISH" value="1" />
       </map>
     </option>
   </component>
