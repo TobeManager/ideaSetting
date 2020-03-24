@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="&lt;p&gt;Evaluate an &lt;code&gt;XPath&lt;/code&gt; expression in the specified context and return the result as the specified type.&lt;/p&gt; * * &lt;p&gt;See &lt;a href=&quot;#XPath-evaluation&quot;&gt;Evaluation of XPath Expressions&lt;/a&gt; for context item evaluation, * variable, function and &lt;code&gt;QName&lt;/code&gt; resolution and return type conversion.&lt;/p&gt; * * &lt;p&gt;If &lt;code&gt;returnType&lt;/code&gt; is not one of the types defined in {@link XPathConstants} ( * {@link XPathConstants#NUMBER NUMBER}, * {@link XPathConstants#STRING STRING}, * {@link XPathConstants#BOOLEAN BOOLEAN}, * {@link XPathConstants#NODE NODE} or * {@link XPathConstants#NODESET NODESET}) * then an &lt;code&gt;IllegalArgumentException&lt;/code&gt; is thrown.&lt;/p&gt; * * &lt;p&gt;If a &lt;code&gt;null&lt;/code&gt; value is provided for * &lt;code&gt;item&lt;/code&gt;, an empty document will be used for the * context. * If &lt;code&gt;expression&lt;/code&gt; or &lt;code&gt;returnType&lt;/code&gt; is &lt;code&gt;null&lt;/code&gt;, then a * &lt;code&gt;NullPointerException&lt;/code&gt; is thrown.&lt;/p&gt; * * @param expression The XPath expression. * @param item The starting context (a node, for example). * @param returnType The desired return type. * * @return Result of evaluating an XPath expression as an &lt;code&gt;Object&lt;/code&gt; of &lt;code&gt;returnType&lt;/code&gt;. * * @throws XPathExpressionException If &lt;code&gt;expression&lt;/code&gt; cannot be evaluated. * @throws IllegalArgumentException If &lt;code&gt;returnType&lt;/code&gt; is not one of the types defined in {@link XPathConstants}. * @throws NullPointerException If &lt;code&gt;expression&lt;/code&gt; or &lt;code&gt;returnType&lt;/code&gt; is &lt;code&gt;null&lt;/code&gt;. */" />
+      <item value="The desired return type." />
+      <item value="The starting context (a node, for example)." />
+      <item value="The XPath expression" />
       <item value="java.security.spec.InvalidKeySpecException: encoded key spec not recognise" />
       <item value="encoded key spec not recognised" />
       <item value="Total" />
@@ -47,12 +51,11 @@
       <item value="Creates an Executor that uses a single worker thread operating * off an unbounded queue. (Note however that if this single * thread terminates due to a failure during execution prior to * shutdown, a new one will take its place if needed to execute * subsequent tasks.) Tasks are guaranteed to execute * sequentially, and no more than one task will be active at any * given time. Unlike the otherwise equivalent * {@code newFixedThreadPool(1)} the returned executor is * guaranteed not to be reconfigurable to use additional threads" />
       <item value="Creates a thread pool that reuses a fixed number of threads * operating off a shared unbounded queue. At any point, at most * {@code nThreads} threads will be active processing tasks. * If additional tasks are submitted when all threads are active, * they will wait in the queue until a thread is available. * If any thread terminates due to a failure during execution * prior to shutdown, a new one will take its place if needed to * execute subsequent tasks. The threads in the pool will exist * until it is explicitly {@link ExecutorService#shutdown shutdown}." />
       <item value="the newly created thread pool" />
-      <item value="the number of threads in the pool" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="48" />
-        <entry key="ENGLISH" value="49" />
+        <entry key="CHINESE" value="52" />
+        <entry key="ENGLISH" value="53" />
         <entry key="POLISH" value="1" />
       </map>
     </option>
