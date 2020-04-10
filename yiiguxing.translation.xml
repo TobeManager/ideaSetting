@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="数据库" />
+      <item value="打点" />
+      <item value="保存" />
       <item value="前缀" />
       <item value="Response" />
       <item value="Cannot locate policy or framework files!" />
