@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="前缀" />
       <item value="Response" />
       <item value="Cannot locate policy or framework files!" />
       <item value="Can not initialize cryptographic mechanism" />
@@ -17,7 +18,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="66" />
-        <entry key="ENGLISH" value="66" />
+        <entry key="ENGLISH" value="67" />
         <entry key="POLISH" value="1" />
       </map>
     </option>
