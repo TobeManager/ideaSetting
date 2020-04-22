@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="活动" />
+      <item value="活动详情" />
+      <item value="链接地址" />
+      <item value="跳转" />
+      <item value="地点" />
+      <item value="副标题" />
+      <item value="购物" />
       <item value="导出" />
       <item value="Invocation of init method failed; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException: Could not create connection to database server. Attempted reconnect 3 times. Giving up." />
       <item value="The supplied data appears to be in the Office 2007+ XML. You are calling the part of POI that deals with OLE2 Office Documents. You need to call a different part of POI to process this data (eg XSSF instead of HSSF)" />
