@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="手机" />
       <item value="认证" />
       <item value="养老" />
       <item value="领取" />
@@ -50,7 +51,6 @@
       <item value="Response" />
       <item value="Cannot locate policy or framework files!" />
       <item value="Can not initialize cryptographic mechanism" />
-      <item value="Illegal key size or default parameters" />
     </histories>
     <option name="languageScores">
       <map>
