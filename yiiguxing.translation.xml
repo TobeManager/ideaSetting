@@ -1,12 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="认证" />
+      <item value="养老" />
+      <item value="领取" />
+      <item value="居民" />
+      <item value="城乡居民领取养老保险待遇资格认证" />
+      <item value="城乡" />
       <item value="邮政编码" />
       <item value="职工个人" />
       <item value="转出类型" />
       <item value="办理单位" />
       <item value="凭证" />
-      <item value="养老" />
       <item value="打印" />
       <item value="社保中心" />
       <item value="Database name must not be empty!" />
@@ -46,11 +51,6 @@
       <item value="Cannot locate policy or framework files!" />
       <item value="Can not initialize cryptographic mechanism" />
       <item value="Illegal key size or default parameters" />
-      <item value="企业复工复产" />
-      <item value="企业" />
-      <item value="信用代码" />
-      <item value="法人" />
-      <item value="the" />
     </histories>
     <option name="languageScores">
       <map>
