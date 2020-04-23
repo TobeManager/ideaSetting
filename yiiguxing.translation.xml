@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="邮政编码" />
+      <item value="职工个人" />
       <item value="转出类型" />
       <item value="办理单位" />
       <item value="凭证" />
@@ -49,8 +51,6 @@
       <item value="信用代码" />
       <item value="法人" />
       <item value="the" />
-      <item value="Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification." />
-      <item value="Reconnected to 129.211.42.49:6379" />
     </histories>
     <option name="languageScores">
       <map>
