@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="省" />
+      <item value="省厅" />
+      <item value="城镇" />
       <item value="手机" />
       <item value="认证" />
       <item value="养老" />
@@ -48,9 +51,6 @@
       <item value="打点" />
       <item value="保存" />
       <item value="前缀" />
-      <item value="Response" />
-      <item value="Cannot locate policy or framework files!" />
-      <item value="Can not initialize cryptographic mechanism" />
     </histories>
     <option name="languageScores">
       <map>
