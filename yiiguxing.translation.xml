@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="预约街道" />
+      <item value="有效期" />
       <item value="证件照" />
       <item value="证件照片" />
       <item value="方式" />
@@ -49,8 +51,6 @@
       <item value="社保中心" />
       <item value="Database name must not be empty!" />
       <item value="活动" />
-      <item value="活动详情" />
-      <item value="链接地址" />
     </histories>
     <option name="languageScores">
       <map>
