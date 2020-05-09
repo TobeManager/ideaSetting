@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cell" />
+      <item value="Cells" />
       <item value="The supplied data appears to be in the OLE2 Format. You are calling the part of POI that deals with OOXML (Office Open XML) Documents. You need to call a different part of POI to process this data (eg HSSF instead of XSSF)" />
       <item value="You need to call a different part of POI to process this data (eg HSSF instead of XSSF)" />
       <item value="已存在" />
@@ -49,13 +51,11 @@
       <item value="城镇" />
       <item value="手机" />
       <item value="认证" />
-      <item value="养老" />
-      <item value="领取" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="106" />
-        <entry key="ENGLISH" value="107" />
+        <entry key="CHINESE" value="108" />
+        <entry key="ENGLISH" value="109" />
         <entry key="POLISH" value="1" />
       </map>
     </option>
