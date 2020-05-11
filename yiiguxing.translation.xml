@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="联系人" />
       <item value="单位名称" />
       <item value="变量" />
       <item value="cell" />
@@ -50,7 +51,6 @@
       <item value="居住证" />
       <item value="省" />
       <item value="省厅" />
-      <item value="城镇" />
     </histories>
     <option name="languageScores">
       <map>
