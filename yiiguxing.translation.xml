@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="婚姻情况" />
       <item value="医院" />
       <item value="配偶" />
       <item value="监护人" />
@@ -50,7 +51,6 @@
       <item value="补领" />
       <item value="补换" />
       <item value="签注" />
-      <item value="申领" />
     </histories>
     <option name="languageScores">
       <map>
