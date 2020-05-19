@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="承诺" />
       <item value="参加" />
       <item value="参加年度" />
       <item value="社会信用代码" />
@@ -50,7 +51,6 @@
       <item value="文化程度" />
       <item value="民族" />
       <item value="national" />
-      <item value="校验" />
     </histories>
     <option name="languageScores">
       <map>
