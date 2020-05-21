@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="size cannot be set" />
       <item value="压缩" />
       <item value="an estimate of the number of remaining bytes that can be read * (or skipped over) from this input stream without blocking. * @exception IOException if this file input stream has been closed by calling * {@code close} or an I/O error occurs." />
       <item value="In some cases, a non-blocking read (or skip) may appear to be * blocked when it is merely slow, for example when reading large * files over slow networks." />
@@ -50,12 +51,11 @@
       <item value="door" />
       <item value="巷" />
       <item value="地区" />
-      <item value="所在地" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="115" />
-        <entry key="ENGLISH" value="116" />
+        <entry key="CHINESE" value="116" />
+        <entry key="ENGLISH" value="117" />
         <entry key="POLISH" value="1" />
       </map>
     </option>
