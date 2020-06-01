@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="残疾人" />
       <item value="Detail" />
       <item value="资助" />
       <item value="申请资助" />
@@ -29,7 +30,6 @@
       <item value="班级" />
       <item value="情况" />
       <item value="代办" />
-      <item value="残疾人" />
       <item value="附件" />
       <item value="补助" />
       <item value="子女" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="118" />
+        <entry key="ENGLISH" value="119" />
         <entry key="POLISH" value="1" />
       </map>
     </option>
