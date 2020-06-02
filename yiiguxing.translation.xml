@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="附件" />
       <item value="残疾人" />
       <item value="Detail" />
       <item value="资助" />
@@ -30,7 +31,6 @@
       <item value="班级" />
       <item value="情况" />
       <item value="代办" />
-      <item value="附件" />
       <item value="补助" />
       <item value="子女" />
       <item value="size cannot be set" />
