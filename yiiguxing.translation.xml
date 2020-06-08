@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="治疗师" />
+      <item value="治疗" />
       <item value="治疗排版" />
       <item value="高校" />
       <item value="教育" />
@@ -49,8 +51,6 @@
       <item value="计划生育" />
       <item value="就医确认" />
       <item value="XWPF Run" />
-      <item value="婚姻情况" />
-      <item value="医院" />
     </histories>
     <option name="languageScores">
       <map>
