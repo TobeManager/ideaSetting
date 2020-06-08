@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <histories>
       <item value="排版" />
+      <item value="患者" />
       <item value="治疗师" />
       <item value="治疗" />
       <item value="治疗排版" />
@@ -50,7 +51,6 @@
       <item value="参加年度" />
       <item value="社会信用代码" />
       <item value="计划生育" />
-      <item value="就医确认" />
     </histories>
     <option name="languageScores">
       <map>
