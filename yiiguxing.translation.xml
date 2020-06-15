@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The requested profile &quot;prod&quot; could not be activated because it does not exist." />
       <item value="我的" />
       <item value="余额" />
       <item value="排版" />
@@ -50,12 +51,11 @@
       <item value="eturns an estimate of the number of remaining bytes that can be read (or * skipped over) from this input stream without blocking by the next * invocation of a method for this input stream. Returns 0 when the file * position is beyond EOF. The next invocation might be the same thread * or another thread. A single read or skip of this many bytes will not * block, but may read or skip fewer bytes." />
       <item value="承诺" />
       <item value="参加" />
-      <item value="参加年度" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="120" />
-        <entry key="ENGLISH" value="121" />
+        <entry key="CHINESE" value="121" />
+        <entry key="ENGLISH" value="122" />
         <entry key="POLISH" value="1" />
       </map>
     </option>
