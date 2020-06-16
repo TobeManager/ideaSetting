@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="功能诊断" />
       <item value="执行时间" />
       <item value="排队队列" />
       <item value="* Put the given key/value pair into this Document and return this. Useful for chaining puts in a single expression, e.g." />
@@ -50,7 +51,6 @@
       <item value="子女" />
       <item value="size cannot be set" />
       <item value="压缩" />
-      <item value="an estimate of the number of remaining bytes that can be read * (or skipped over) from this input stream without blocking. * @exception IOException if this file input stream has been closed by calling * {@code close} or an I/O error occurs." />
     </histories>
     <option name="languageScores">
       <map>
