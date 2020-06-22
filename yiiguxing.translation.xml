@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="附件" />
+      <item value="附件地址" />
       <item value="统计" />
       <item value="complete" />
       <item value=" required" />
@@ -20,7 +22,6 @@
       <item value="高校" />
       <item value="教育" />
       <item value="No suitable ImageReader found for source data." />
-      <item value="附件" />
       <item value="残疾人" />
       <item value="Detail" />
       <item value="资助" />
@@ -50,7 +51,6 @@
       <item value="班级" />
       <item value="情况" />
       <item value="代办" />
-      <item value="补助" />
     </histories>
     <option name="languageScores">
       <map>
