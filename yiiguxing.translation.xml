@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Change Spring Boot version to one of the following versions [2.0.x] ." />
+      <item value="Consider applying the following actions:" />
+      <item value="Spring Boot [2.1.10.RELEASE] is not compatible with this Spring Cloud release train" />
       <item value="DynamicServerListLoadBalancer for client meite-service-member initialized" />
       <item value="Flipping property: meite-service-member.ribbon.ActiveConnectionsLimit to use NEXT property:" />
       <item value="sing serverListUpdater PollingServerListUpdater" />
@@ -48,14 +51,11 @@
       <item value="医疗康复" />
       <item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;yes&quot; ?&gt; &lt;result&gt; &lt;code&gt;-1&lt;/code&gt; &lt;Message&gt;受理机构信息有误，请联系所属区公共就业服务机构查询。申报信息中该人员的姓名(xm)和系统中该人的姓名不一致，请正确填写该人员姓名信息；如需修改个人基本信息的，请持劳动者身份证原件到各公共就业服务机构窗口办理信息变更手续。现联系（暂住）地址属于必填项，且长度不能超过150个字符（75个汉字）。每周工作时间（小时）属于必填项，且长度不能超过3个字符。每月收入情况属于必填项，且长度不能超过20个字符。手机号码属于必填项，且长度不能超过11个字符。就业前身份不能为空!就业形式（灵活就业）不能为空!就业地址不能为空!“文化程度”为“大学专科及以上”时毕业时间不能为空!文化程度代码不符合要求!&lt;/Message&gt; &lt;/result&gt;" />
       <item value="非税" />
-      <item value="开户人姓名" />
-      <item value="凭证" />
-      <item value="残疾亲属" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="133" />
-        <entry key="ENGLISH" value="134" />
+        <entry key="CHINESE" value="136" />
+        <entry key="ENGLISH" value="137" />
         <entry key="POLISH" value="1" />
       </map>
     </option>
