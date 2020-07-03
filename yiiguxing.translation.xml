@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="量表" />
+      <item value="评定" />
       <item value="确费" />
       <item value="已治疗" />
       <item value="Consider revisiting the entries above or defining a bean of type 'org.springframework.web.reactive.socket.client.WebSocketClient' in your configuration." />
@@ -49,8 +51,6 @@
       <item value="居住地" />
       <item value="享受医疗保险类别" />
       <item value="监护人" />
-      <item value="资助对象" />
-      <item value="关系" />
     </histories>
     <option name="languageScores">
       <map>
