@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="销量" />
+      <item value="库存" />
       <item value="秒杀" />
       <item value="Consider renaming one of the beans or enabling overriding by setting spring.main.allow-bean-definition-overriding=true" />
       <item value="nacos registry, my-user 192.168.0.110:8050 register finished" />
@@ -49,8 +51,6 @@
       <item value=" required" />
       <item value="功能诊断" />
       <item value="执行时间" />
-      <item value="排队队列" />
-      <item value="* Put the given key/value pair into this Document and return this. Useful for chaining puts in a single expression, e.g." />
     </histories>
     <option name="languageScores">
       <map>
