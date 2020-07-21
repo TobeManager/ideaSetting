@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="乐观" />
+      <item value="悲观" />
+      <item value="悲观锁" />
       <item value="销量" />
       <item value="库存" />
       <item value="秒杀" />
@@ -48,9 +51,6 @@
       <item value="附件地址" />
       <item value="统计" />
       <item value="complete" />
-      <item value=" required" />
-      <item value="功能诊断" />
-      <item value="执行时间" />
     </histories>
     <option name="languageScores">
       <map>
