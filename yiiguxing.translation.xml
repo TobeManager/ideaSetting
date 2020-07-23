@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="频次" />
+      <item value="方案名称" />
+      <item value="家庭训练" />
       <item value="执行" />
       <item value="限制" />
       <item value="乐观" />
@@ -48,9 +51,6 @@
       <item value="Flipping property: meite-service-member.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647" />
       <item value="Your project setup is incompatible with our requirements due to following reasons: - Spring Boot [2.0.0.RELEASE] is not compatible with this Spring Cloud release train" />
       <item value="DynamicServerListLoadBalancer for client meite-member initialized:" />
-      <item value="ou can find the latest Spring Boot versions here [https://spring.io/projects/spring-boot#learn]. If you want to learn more about the Spring Cloud Release train compatibility, you can visit this page [https://spring.io/projects/spring-cloud#overview] and check the [Release Trains] section. If you want to disable this check, just set the property [spring.cloud.compatibility-verifier.enabled=false]" />
-      <item value="附件" />
-      <item value="附件地址" />
     </histories>
     <option name="languageScores">
       <map>
