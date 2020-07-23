@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="{&quot;retBody&quot;:{&quot;list&quot;:[{&quot;bedNo&quot;:103,&quot;createTime&quot;:&quot;2020-07-25 10:33:00&quot;,&quot;diagnosisNumber&quot;:&quot;202001030002&quot;,&quot;frequency&quot;:&quot;一日一次&quot;,&quot;homeTrainingId&quot;:&quot;202007231007494444096&quot;,&quot;name&quot;:&quot;张三&quot;,&quot;projectName&quot;:&quot;作业治疗&quot;,&quot;status&quot;:0},{&quot;bedNo&quot;:103,&quot;createTime&quot;:&quot;2020-07-25 10:33:00&quot;,&quot;diagnosisNumber&quot;:&quot;202001030003&quot;,&quot;frequency&quot;:&quot;一日一次&quot;,&quot;homeTrainingId&quot;:&quot;202007231007529094096&quot;,&quot;name&quot;:&quot;张三&quot;,&quot;projectName&quot;:&quot;作业治疗&quot;,&quot;status&quot;:0},{&quot;bedNo&quot;:103,&quot;createTime&quot;:&quot;2020-07-25 10:33:00&quot;,&quot;diagnosisNumber&quot;:&quot;202001030001&quot;,&quot;frequency&quot;:&quot;一日一次&quot;,&quot;homeTrainingId&quot;:&quot;202007231007043014096&quot;,&quot;name&quot;:&quot;张三&quot;,&quot;projectName&quot;:&quot;作业治疗&quot;,&quot;status&quot;:0},{&quot;bedNo&quot;:103,&quot;createTime&quot;:&quot;2020-07-24 10:33:00&quot;,&quot;diagnosisNumber&quot;:&quot;202001030002&quot;,&quot;frequency&quot;:&quot;一日一次&quot;,&quot;homeTrainingId&quot;:&quot;202007231007444454096&quot;,&quot;name&quot;:&quot;张三&quot;,&quot;projectName&quot;:&quot;作业治疗&quot;,&quot;status&quot;:0},{&quot;bedNo&quot;:103,&quot;createTime&quot;:&quot;2020-07-23 10:33:00&quot;,&quot;diagnosisNumber&quot;:&quot;202001030001&quot;,&quot;frequency&quot;:&quot;一日一次&quot;,&quot;homeTrainingId&quot;:&quot;202007231007143444096&quot;,&quot;name&quot;:&quot;张三&quot;,&quot;projectName&quot;:&quot;作业治疗&quot;,&quot;status&quot;:0},{&quot;bedNo&quot;:103,&quot;createTime&quot;:&quot;2020-07-23 10:33:00&quot;,&quot;diagnosisNumber&quot;:&quot;202001030003&quot;,&quot;frequency&quot;:&quot;一日一次&quot;,&quot;homeTrainingId&quot;:&quot;202007231007565334096&quot;,&quot;name&quot;:&quot;张三&quot;,&quot;projectName&quot;:&quot;作业治疗&quot;,&quot;status&quot;:2}],&quot;totalCount&quot;:6},&quot;retMsg&quot;:&quot;获取成功&quot;,&quot;retStatus&quot;:&quot;000&quot;}" />
       <item value="频次" />
       <item value="方案名称" />
       <item value="家庭训练" />
@@ -50,7 +51,6 @@
       <item value="Client: meite-service-member instantiated a LoadBalancer:" />
       <item value="Flipping property: meite-service-member.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647" />
       <item value="Your project setup is incompatible with our requirements due to following reasons: - Spring Boot [2.0.0.RELEASE] is not compatible with this Spring Cloud release train" />
-      <item value="DynamicServerListLoadBalancer for client meite-member initialized:" />
     </histories>
     <option name="languageScores">
       <map>
