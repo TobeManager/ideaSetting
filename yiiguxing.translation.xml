@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="字段" />
       <item value="系统配置" />
       <item value="紧急" />
       <item value="消息类型" />
@@ -50,7 +51,6 @@
       <item value="Spring Boot [2.1.10.RELEASE] is not compatible with this Spring Cloud release train" />
       <item value="DynamicServerListLoadBalancer for client meite-service-member initialized" />
       <item value="Flipping property: meite-service-member.ribbon.ActiveConnectionsLimit to use NEXT property:" />
-      <item value="sing serverListUpdater PollingServerListUpdater" />
     </histories>
     <option name="languageScores">
       <map>
