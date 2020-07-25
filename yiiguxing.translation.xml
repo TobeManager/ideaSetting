@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="标识" />
+      <item value="唯一" />
+      <item value="唯一标识" />
+      <item value="拼音" />
+      <item value="中文名" />
       <item value="字段" />
       <item value="系统配置" />
       <item value="紧急" />
@@ -46,11 +51,6 @@
       <item value="Loading nacos data, dataId: 'meite-nacos-config-dev.yaml', group: 'DEFAULT_GROUP'" />
       <item value="Bean with name 'refreshScope' has been autodetected for JMX exposure" />
       <item value="The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path" />
-      <item value="Change Spring Boot version to one of the following versions [2.0.x] ." />
-      <item value="Consider applying the following actions:" />
-      <item value="Spring Boot [2.1.10.RELEASE] is not compatible with this Spring Cloud release train" />
-      <item value="DynamicServerListLoadBalancer for client meite-service-member initialized" />
-      <item value="Flipping property: meite-service-member.ribbon.ActiveConnectionsLimit to use NEXT property:" />
     </histories>
     <option name="languageScores">
       <map>
