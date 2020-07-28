@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="收藏" />
       <item value="笔记" />
+      <item value="收藏" />
       <item value="历史病历" />
       <item value="附件" />
       <item value="附件地址" />
