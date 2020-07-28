@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="收藏" />
+      <item value="笔记" />
       <item value="历史病历" />
       <item value="附件" />
       <item value="附件地址" />
@@ -49,8 +51,6 @@
       <item value="doctorId3" />
       <item value="Verify the connector's configuration, identify and stop any process that's listening on port 8070, or configure this application to listen on another port." />
       <item value="The Tomcat connector configured to listen on port 8070 failed to start. The port may already be in use or the connector may be misconfigured." />
-      <item value="评定" />
-      <item value="确费" />
     </histories>
     <option name="languageScores">
       <map>
