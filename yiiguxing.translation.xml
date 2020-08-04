@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="厂家" />
+      <item value="型号" />
       <item value="设备" />
       <item value="物联网" />
       <item value="收藏" />
@@ -49,8 +51,6 @@
       <item value="doctorAllocationPatientProject" />
       <item value="时长" />
       <item value="doctor" />
-      <item value="doctorId" />
-      <item value="doctorId3" />
     </histories>
     <option name="languageScores">
       <map>
