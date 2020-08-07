@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="中心" />
       <item value="统计" />
       <item value="统计中心" />
       <item value="治疗" />
@@ -50,7 +51,6 @@
       <item value="业务" />
       <item value="量表" />
       <item value="简易" />
-      <item value="治疗文书" />
     </histories>
     <option name="languageScores">
       <map>
