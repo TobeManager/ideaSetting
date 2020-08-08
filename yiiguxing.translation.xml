@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="统计" />
       <item value="前面" />
       <item value="昨天" />
       <item value="耗电" />
@@ -13,7 +14,6 @@
       <item value="使用时长" />
       <item value="日统计" />
       <item value="中心" />
-      <item value="统计" />
       <item value="统计中心" />
       <item value="治疗" />
       <item value="科室" />
