@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="百分比" />
+      <item value="排行榜" />
       <item value="统计" />
       <item value="前面" />
       <item value="昨天" />
@@ -49,8 +51,6 @@
       <item value="家庭训练" />
       <item value="执行" />
       <item value="限制" />
-      <item value="乐观" />
-      <item value="悲观" />
     </histories>
     <option name="languageScores">
       <map>
