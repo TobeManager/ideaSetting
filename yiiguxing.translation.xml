@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="设备" />
       <item value="实时" />
       <item value="百分比" />
       <item value="排行榜" />
@@ -21,7 +22,6 @@
       <item value="治疗" />
       <item value="科室" />
       <item value="编号" />
-      <item value="设备" />
       <item value="设别" />
       <item value="病历" />
       <item value="厂家" />
