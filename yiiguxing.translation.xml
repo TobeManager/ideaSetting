@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="实时" />
       <item value="百分比" />
       <item value="排行榜" />
       <item value="统计" />
@@ -50,7 +51,6 @@
       <item value="方案名称" />
       <item value="家庭训练" />
       <item value="执行" />
-      <item value="限制" />
     </histories>
     <option name="languageScores">
       <map>
