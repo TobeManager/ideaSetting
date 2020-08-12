@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="设备" />
       <item value="Publish" />
       <item value="topic" />
       <item value="exceptionCaught" />
@@ -9,7 +10,6 @@
       <item value="通电" />
       <item value="运行状态" />
       <item value="患者" />
-      <item value="设备" />
       <item value="实时" />
       <item value="百分比" />
       <item value="排行榜" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="159" />
-        <entry key="ENGLISH" value="159" />
+        <entry key="ENGLISH" value="160" />
         <entry key="POLISH" value="1" />
       </map>
     </option>
