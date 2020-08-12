@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exceptionCaught" />
+      <item value="subscribe" />
+      <item value="publish" />
       <item value="通电" />
       <item value="运行状态" />
       <item value="患者" />
@@ -48,13 +51,10 @@
       <item value="字段" />
       <item value="系统配置" />
       <item value="紧急" />
-      <item value="消息类型" />
-      <item value="{&quot;retBody&quot;:{&quot;list&quot;:[{&quot;bedNo&quot;:103,&quot;createTime&quot;:&quot;2020-07-25 10:33:00&quot;,&quot;diagnosisNumber&quot;:&quot;202001030002&quot;,&quot;frequency&quot;:&quot;一日一次&quot;,&quot;homeTrainingId&quot;:&quot;202007231007494444096&quot;,&quot;name&quot;:&quot;张三&quot;,&quot;projectName&quot;:&quot;作业治疗&quot;,&quot;status&quot;:0},{&quot;bedNo&quot;:103,&quot;createTime&quot;:&quot;2020-07-25 10:33:00&quot;,&quot;diagnosisNumber&quot;:&quot;202001030003&quot;,&quot;frequency&quot;:&quot;一日一次&quot;,&quot;homeTrainingId&quot;:&quot;202007231007529094096&quot;,&quot;name&quot;:&quot;张三&quot;,&quot;projectName&quot;:&quot;作业治疗&quot;,&quot;status&quot;:0},{&quot;bedNo&quot;:103,&quot;createTime&quot;:&quot;2020-07-25 10:33:00&quot;,&quot;diagnosisNumber&quot;:&quot;202001030001&quot;,&quot;frequency&quot;:&quot;一日一次&quot;,&quot;homeTrainingId&quot;:&quot;202007231007043014096&quot;,&quot;name&quot;:&quot;张三&quot;,&quot;projectName&quot;:&quot;作业治疗&quot;,&quot;status&quot;:0},{&quot;bedNo&quot;:103,&quot;createTime&quot;:&quot;2020-07-24 10:33:00&quot;,&quot;diagnosisNumber&quot;:&quot;202001030002&quot;,&quot;frequency&quot;:&quot;一日一次&quot;,&quot;homeTrainingId&quot;:&quot;202007231007444454096&quot;,&quot;name&quot;:&quot;张三&quot;,&quot;projectName&quot;:&quot;作业治疗&quot;,&quot;status&quot;:0},{&quot;bedNo&quot;:103,&quot;createTime&quot;:&quot;2020-07-23 10:33:00&quot;,&quot;diagnosisNumber&quot;:&quot;202001030001&quot;,&quot;frequency&quot;:&quot;一日一次&quot;,&quot;homeTrainingId&quot;:&quot;202007231007143444096&quot;,&quot;name&quot;:&quot;张三&quot;,&quot;projectName&quot;:&quot;作业治疗&quot;,&quot;status&quot;:0},{&quot;bedNo&quot;:103,&quot;createTime&quot;:&quot;2020-07-23 10:33:00&quot;,&quot;diagnosisNumber&quot;:&quot;202001030003&quot;,&quot;frequency&quot;:&quot;一日一次&quot;,&quot;homeTrainingId&quot;:&quot;202007231007565334096&quot;,&quot;name&quot;:&quot;张三&quot;,&quot;projectName&quot;:&quot;作业治疗&quot;,&quot;status&quot;:2}],&quot;totalCount&quot;:6},&quot;retMsg&quot;:&quot;获取成功&quot;,&quot;retStatus&quot;:&quot;000&quot;}" />
-      <item value="频次" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="158" />
+        <entry key="CHINESE" value="159" />
         <entry key="ENGLISH" value="159" />
         <entry key="POLISH" value="1" />
       </map>
