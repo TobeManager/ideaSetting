@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Publish" />
+      <item value="topic" />
       <item value="exceptionCaught" />
       <item value="subscribe" />
       <item value="publish" />
@@ -49,8 +51,6 @@
       <item value="拼音" />
       <item value="中文名" />
       <item value="字段" />
-      <item value="系统配置" />
-      <item value="紧急" />
     </histories>
     <option name="languageScores">
       <map>
