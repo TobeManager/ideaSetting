@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="设备" />
       <item value="主页统计" />
       <item value="具体" />
-      <item value="设备" />
       <item value="Publish" />
       <item value="topic" />
       <item value="exceptionCaught" />
