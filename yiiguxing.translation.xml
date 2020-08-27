@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="查询功能障碍下拉框异常" />
       <item value="这是" />
       <item value="集群" />
       <item value="slave" />
@@ -50,7 +51,6 @@
       <item value="统计中心" />
       <item value="治疗" />
       <item value="科室" />
-      <item value="编号" />
     </histories>
     <option name="languageScores">
       <map>
