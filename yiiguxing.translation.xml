@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="哎睡觉" />
+      <item value="哎" />
       <item value="就这样爱你爱你爱你随时都要离去" />
       <item value="必要参数" />
       <item value="卧槽卧槽卧槽" />
@@ -49,8 +51,6 @@
       <item value="统计日期" />
       <item value="Current request is not a multipart request" />
       <item value="定时" />
-      <item value="useSecond" />
-      <item value="耗电量" />
     </histories>
     <option name="languageScores">
       <map>
