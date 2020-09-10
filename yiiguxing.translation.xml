@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="响应错误" />
       <item value="公司" />
       <item value="脚手架" />
       <item value="Public object - authentication not attempted" />
@@ -50,7 +51,6 @@
       <item value="所属年份" />
       <item value="Failed to declare queue" />
       <item value="occurred while executing a query" />
-      <item value="Cron expression must consist of 6 fields" />
     </histories>
     <option name="languageScores">
       <map>
