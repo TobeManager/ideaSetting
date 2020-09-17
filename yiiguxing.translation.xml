@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="医保分组" />
       <item value="医保" />
+      <item value="医保分组" />
       <item value="no further information" />
       <item value="Connection refused: no further information: /127.0.0.1:7000" />
       <item value="Spring Team recommends: &quot;Always use constructor based dependency injection in your beans. Always use assertions for mandatory dependencies&quot;" />
