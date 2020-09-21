@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="退费" />
       <item value="金额" />
       <item value="总时长" />
       <item value="医嘱项目" />
@@ -50,7 +51,6 @@
       <item value="java.lang.RuntimeException: dynamic-datasource Please check the setting of primary" />
       <item value="The server time zone value '�й���׼ʱ��' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the 'serverTimezone' configuration property) to use a more specifc time zone value if you want to utilize time zone support" />
       <item value="java.lang.annotation.Annotation Format Error:" />
-      <item value="查询功能障碍下拉框异常" />
     </histories>
     <option name="languageScores">
       <map>
