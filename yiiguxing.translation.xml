@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="分公司" />
       <item value="pre" />
       <item value="Confident" />
       <item value="Tender Plan Main" />
@@ -50,12 +51,11 @@
       <item value="MessageControlID" />
       <item value="DateTimeOfMessage" />
       <item value="ReceivingFacility" />
-      <item value="ReceivingApplication" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="198" />
-        <entry key="ENGLISH" value="198" />
+        <entry key="ENGLISH" value="199" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
       </map>
