@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ALL_ROWS" />
+      <item value="ANALYZED" />
+      <item value="Related" />
+      <item value="RelatedC" />
+      <item value="RelatedCb" />
+      <item value="isRelatedCb" />
+      <item value="step out" />
+      <item value="step into" />
+      <item value="step over" />
       <item value="分公司" />
       <item value="pre" />
       <item value="Confident" />
@@ -42,19 +51,10 @@
       <item value="MLLP protocol violation - Expected byte '13' in state PREPARE_END but was '28'" />
       <item value="preserve" />
       <item value="Before we can send, let's create a server to listen for incoming * messages. The following section of code establishes a server listening * on port 9090 for new connections." />
-      <item value="GivenName" />
-      <item value="Surname" />
-      <item value="Parser" />
-      <item value="Pipe" />
-      <item value="PipeParser" />
-      <item value="Processing" />
-      <item value="MessageControlID" />
-      <item value="DateTimeOfMessage" />
-      <item value="ReceivingFacility" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="198" />
+        <entry key="CHINESE" value="199" />
         <entry key="ENGLISH" value="199" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
