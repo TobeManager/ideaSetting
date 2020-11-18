@@ -10,8 +10,16 @@
           <option name="url" value="http://192.168.10.222:8081/tp-dev-earth" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://zhangjiyuan@61.177.38.106:14621/a/tp-dev-earth" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://61.177.38.106:14621" />
+          <option name="userName" value="zhangjiyuan" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\work\tianhao" />
+    <option name="cloneParentDir" value="F:\work\tianhao\git-workcode\back" />
   </component>
 </application>
