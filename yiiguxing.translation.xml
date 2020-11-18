@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mentor" />
       <item value="ALL_ROWS" />
       <item value="ANALYZED" />
       <item value="Related" />
@@ -50,7 +51,6 @@
       <item value="频次" />
       <item value="MLLP protocol violation - Expected byte '13' in state PREPARE_END but was '28'" />
       <item value="preserve" />
-      <item value="Before we can send, let's create a server to listen for incoming * messages. The following section of code establishes a server listening * on port 9090 for new connections." />
     </histories>
     <option name="languageScores">
       <map>
