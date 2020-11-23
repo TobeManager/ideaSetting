@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Object name must not be null" />
       <item value="listener" />
       <item value="模式" />
       <item value="自有" />
@@ -50,12 +51,11 @@
       <item value="expected at least 1 bean which qualifies as autowire candidate" />
       <item value="转发" />
       <item value="Illegal Blocking Mode Exception" />
-      <item value="脚手架" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="203" />
-        <entry key="ENGLISH" value="204" />
+        <entry key="CHINESE" value="204" />
+        <entry key="ENGLISH" value="205" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
       </map>
