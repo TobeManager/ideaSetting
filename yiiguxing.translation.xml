@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="prohibited by Gerrit: ref update access denied" />
+      <item value="refs/heads/tp-dev-earth-supplier-midea:refs/heads/tp-dev-earth-supplier-midea [remote rejected] (prohibited by Gerrit: ref update access denied) Done" />
+      <item value="[remote rejected] (prohibited by Gerrit: ref update access denied)" />
+      <item value="请" />
       <item value="Object name must not be null" />
       <item value="listener" />
       <item value="模式" />
@@ -47,15 +51,11 @@
       <item value="医保分组" />
       <item value="no further information" />
       <item value="Connection refused: no further information: /127.0.0.1:7000" />
-      <item value="Spring Team recommends: &quot;Always use constructor based dependency injection in your beans. Always use assertions for mandatory dependencies&quot;" />
-      <item value="expected at least 1 bean which qualifies as autowire candidate" />
-      <item value="转发" />
-      <item value="Illegal Blocking Mode Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="204" />
-        <entry key="ENGLISH" value="205" />
+        <entry key="CHINESE" value="208" />
+        <entry key="ENGLISH" value="209" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
       </map>
