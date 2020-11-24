@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="部分信息" />
       <item value="令" />
       <item value="开工时间" />
       <item value="Deleted Branch: th-earth-zc Restore Delete Tracked Branch" />
@@ -50,7 +51,6 @@
       <item value="总时长" />
       <item value="医嘱项目" />
       <item value="医嘱" />
-      <item value="execute" />
     </histories>
     <option name="languageScores">
       <map>
