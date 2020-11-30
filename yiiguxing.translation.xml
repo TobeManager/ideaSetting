@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="记录" />
+      <item value="奖惩" />
       <item value="下拉" />
       <item value="同步" />
       <item value="进场" />
@@ -49,8 +51,6 @@
       <item value="报表" />
       <item value="北方看板" />
       <item value="multiple points" />
-      <item value="needed to unlink next upon deletion" />
-      <item value="red-black tree links" />
     </histories>
     <option name="languageScores">
       <map>
