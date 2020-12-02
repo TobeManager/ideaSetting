@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="could not resolve property:" />
+      <item value="java.lang.RuntimeException: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'assessDetailManager': Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Validation failed for query for method public abstract java.lang.Integer com.telehot.supplier.biz.supplier.supplierassess.manager.AssessDetailManager.getCountAssessMain(java.lang.Integer,java.lang.Long,java.lang.Integer[])!" />
+      <item value="could not resolve property: assessType of: com.telehot.supplier.biz.supplier.supplierassess.model.AssessDetail&quot;}}" />
       <item value="New missing/unsatisfied dependencies:" />
       <item value="ignoring option MaxPermSize=512m; support was removed in 8.0" />
       <item value="MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error" />
@@ -48,14 +51,11 @@
       <item value="isRelatedCb" />
       <item value="step out" />
       <item value="step into" />
-      <item value="step over" />
-      <item value="分公司" />
-      <item value="pre" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="221" />
-        <entry key="ENGLISH" value="222" />
+        <entry key="CHINESE" value="224" />
+        <entry key="ENGLISH" value="225" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
       </map>
