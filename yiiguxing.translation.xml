@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ignoring option MaxPermSize=512m; support was removed in 8.0" />
       <item value="MISCONF Redis is configured to save RDB snapshots, but is currently not able to persist on disk. Commands that may modify the data set are disabled. Please check Redis logs for details about the error" />
       <item value="回标" />
       <item value="招标过程" />
@@ -50,12 +51,11 @@
       <item value="分公司" />
       <item value="pre" />
       <item value="Confident" />
-      <item value="Tender Plan Main" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="220" />
-        <entry key="ENGLISH" value="220" />
+        <entry key="ENGLISH" value="221" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
       </map>
