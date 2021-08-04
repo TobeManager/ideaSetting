@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Updateor" />
       <item value="module" />
       <item value="check the manual that corresponds to your MySQL server version for the right syntax to use near '1)' at line 1" />
       <item value="外" />
@@ -50,7 +51,6 @@
       <item value="自有" />
       <item value="优势类型" />
       <item value="ERR Client sent AUTH, but no password is set&quot;}}" />
-      <item value="Cannot get Jedis connection; nested exception is redis.clients.jedis.exceptions.JedisConnectionException: Could not get a resource from the pool" />
     </histories>
     <option name="languageScores">
       <map>
