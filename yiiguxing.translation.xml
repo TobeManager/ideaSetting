@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="操作" />
       <item value="gather" />
       <item value="Updateor" />
       <item value="module" />
@@ -50,12 +51,11 @@
       <item value="listener" />
       <item value="模式" />
       <item value="自有" />
-      <item value="优势类型" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="230" />
-        <entry key="ENGLISH" value="230" />
+        <entry key="ENGLISH" value="231" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
       </map>
