@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="干杯" />
       <item value="操作" />
       <item value="gather" />
       <item value="Updateor" />
@@ -50,7 +51,6 @@
       <item value="Object name must not be null" />
       <item value="listener" />
       <item value="模式" />
-      <item value="自有" />
     </histories>
     <option name="languageScores">
       <map>
